@@ -64,4 +64,12 @@
         <url>module_condor_attack_silent</url>
         <required>1.0</required>
     </module>
+    <module>
+        <name>BETTERCAP</name>
+        <version>1.0</version>
+        <author>@sasaga92</author>
+        <description>Bettercap es un completo y modular, framework (marco) para hacer ataques MITM (Man-in-the-middle) ademas de ser portatil y fácilmente extensible, El proyecto nace de la necesidad de mejorar la anticuada herramienta ettercap. Una herramienta sobretodo enfocada a analizar trafico HTTP, y HTTPS adaptada para CONDOR</description>
+        <url>module_bettercap</url>
+        <required>1.0</required>
+    </module>
 </condor>
